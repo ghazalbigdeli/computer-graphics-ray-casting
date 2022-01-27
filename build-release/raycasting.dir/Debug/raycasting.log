@@ -1,0 +1,41 @@
+﻿  Building Custom Rule C:/Users/ghaza/Documents/GitHub/computer-graphics-ray-casting/CMakeLists.txt
+  Sphere.cpp
+  Triangle.cpp
+C:\Users\ghaza\Documents\GitHub\computer-graphics-ray-casting\src\Triangle.cpp(20,14): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\ghaza\Documents\GitHub\computer-graphics-ray-casting\src\Triangle.cpp(20,29): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\ghaza\Documents\GitHub\computer-graphics-ray-casting\src\Triangle.cpp(20,53): warning C4244: 'argument': conversion from 'const double' to 'const float', possible loss of data
+C:\Users\ghaza\Documents\GitHub\computer-graphics-ray-casting\src\Triangle.cpp(21,15): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\ghaza\Documents\GitHub\computer-graphics-ray-casting\src\Triangle.cpp(21,30): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\ghaza\Documents\GitHub\computer-graphics-ray-casting\src\Triangle.cpp(21,54): warning C4244: 'argument': conversion from 'const double' to 'const float', possible loss of data
+C:\Users\ghaza\Documents\GitHub\computer-graphics-ray-casting\src\Triangle.cpp(22,15): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\ghaza\Documents\GitHub\computer-graphics-ray-casting\src\Triangle.cpp(22,30): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\ghaza\Documents\GitHub\computer-graphics-ray-casting\src\Triangle.cpp(22,54): warning C4244: 'argument': conversion from 'const double' to 'const float', possible loss of data
+C:\Users\ghaza\Documents\GitHub\computer-graphics-ray-casting\src\Triangle.cpp(26,24): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\ghaza\Documents\GitHub\computer-graphics-ray-casting\src\Triangle.cpp(26,48): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\ghaza\Documents\GitHub\computer-graphics-ray-casting\src\Triangle.cpp(26,72): warning C4244: 'argument': conversion from 'const double' to 'const float', possible loss of data
+C:\Users\ghaza\Documents\GitHub\computer-graphics-ray-casting\src\Triangle.cpp(27,25): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\ghaza\Documents\GitHub\computer-graphics-ray-casting\src\Triangle.cpp(27,49): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\ghaza\Documents\GitHub\computer-graphics-ray-casting\src\Triangle.cpp(27,73): warning C4244: 'argument': conversion from 'const double' to 'const float', possible loss of data
+C:\Users\ghaza\Documents\GitHub\computer-graphics-ray-casting\src\Triangle.cpp(28,25): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\ghaza\Documents\GitHub\computer-graphics-ray-casting\src\Triangle.cpp(28,49): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\ghaza\Documents\GitHub\computer-graphics-ray-casting\src\Triangle.cpp(28,73): warning C4244: 'argument': conversion from 'const double' to 'const float', possible loss of data
+C:\Users\ghaza\Documents\GitHub\computer-graphics-ray-casting\src\Triangle.cpp(30,25): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\ghaza\Documents\GitHub\computer-graphics-ray-casting\src\Triangle.cpp(30,40): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\ghaza\Documents\GitHub\computer-graphics-ray-casting\src\Triangle.cpp(30,73): warning C4244: 'argument': conversion from 'const double' to 'const float', possible loss of data
+C:\Users\ghaza\Documents\GitHub\computer-graphics-ray-casting\src\Triangle.cpp(31,25): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\ghaza\Documents\GitHub\computer-graphics-ray-casting\src\Triangle.cpp(31,40): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\ghaza\Documents\GitHub\computer-graphics-ray-casting\src\Triangle.cpp(31,73): warning C4244: 'argument': conversion from 'const double' to 'const float', possible loss of data
+C:\Users\ghaza\Documents\GitHub\computer-graphics-ray-casting\src\Triangle.cpp(32,25): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\ghaza\Documents\GitHub\computer-graphics-ray-casting\src\Triangle.cpp(32,40): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\ghaza\Documents\GitHub\computer-graphics-ray-casting\src\Triangle.cpp(32,73): warning C4244: 'argument': conversion from 'const double' to 'const float', possible loss of data
+C:\Users\ghaza\Documents\GitHub\computer-graphics-ray-casting\src\Triangle.cpp(34,21): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\ghaza\Documents\GitHub\computer-graphics-ray-casting\src\Triangle.cpp(34,36): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\ghaza\Documents\GitHub\computer-graphics-ray-casting\src\Triangle.cpp(34,51): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\ghaza\Documents\GitHub\computer-graphics-ray-casting\src\Triangle.cpp(35,21): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\ghaza\Documents\GitHub\computer-graphics-ray-casting\src\Triangle.cpp(35,36): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\ghaza\Documents\GitHub\computer-graphics-ray-casting\src\Triangle.cpp(35,51): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\ghaza\Documents\GitHub\computer-graphics-ray-casting\src\Triangle.cpp(36,21): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\ghaza\Documents\GitHub\computer-graphics-ray-casting\src\Triangle.cpp(36,36): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\ghaza\Documents\GitHub\computer-graphics-ray-casting\src\Triangle.cpp(36,51): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  Generating Code...
+  raycasting.vcxproj -> C:\Users\ghaza\Documents\GitHub\computer-graphics-ray-casting\build-release\Debug\raycasting.exe

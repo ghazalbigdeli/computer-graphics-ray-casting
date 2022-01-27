@@ -17,6 +17,7 @@
 
 int main(int argc, char * argv[])
 {
+
   // list of colors used for per-object id coloring
   const std::vector<unsigned char> color_map = {
     228,26,28,
@@ -33,7 +34,7 @@ int main(int argc, char * argv[])
   Camera camera;
   std::vector< std::shared_ptr<Object> > objects;
   // Read a camera and scene description from given .json file
-  read_json(argc<=1?"../data/sphere-and-plane.json":argv[1],camera,objects);
+  read_json(argc<=1?"data/bunny.json":argv[1],camera,objects);
 
   int width = 640;
   int height = 360;

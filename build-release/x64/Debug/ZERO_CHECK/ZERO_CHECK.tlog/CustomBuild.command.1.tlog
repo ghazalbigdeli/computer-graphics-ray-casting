@@ -1,0 +1,10 @@
+^C:\USERS\GHAZA\DOCUMENTS\GITHUB\COMPUTER-GRAPHICS-RAY-CASTING\BUILD-RELEASE\CMAKEFILES\7E8796B4533EAD912F1E2A43E0705F9E\GENERATE.STAMP.RULE
+setlocal
+C:\Users\ghaza\AppData\Local\Programs\Python\Python39\Lib\site-packages\cmake\data\bin\cmake.exe -SC:/Users/ghaza/Documents/GitHub/computer-graphics-ray-casting -BC:/Users/ghaza/Documents/GitHub/computer-graphics-ray-casting/build-release --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/ghaza/Documents/GitHub/computer-graphics-ray-casting/build-release/raycasting.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
